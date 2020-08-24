@@ -16,3 +16,8 @@ Nathpad is a simple text editor and a basic text-editing program which enables c
 - CheckStyle plugin for netbeans
 - Tomcat Apache 8
 - Java Doc
+
+## Preview
+<p align="center"><img src="https://i.imgur.com/gIJJPX2.png" alt="desktop"></p>
+<p align="center"><img src="https://i.imgur.com/i5DPCFO.png" alt="nathpad and edit menu"></p>
+<p align="center"><img src="https://i.imgur.com/lAPtjt5.png" alt="nathpad with find text"></p>
